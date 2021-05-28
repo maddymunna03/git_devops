@@ -1,2 +1,2 @@
 # git_devops
-this is tutorial purpose
+this is tutorial for test purpose 
